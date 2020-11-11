@@ -37,6 +37,10 @@ img.santamarianovella {
     margin-bottom: 10px;
 }
 
+footer {
+    clear: both;
+}
+
 p.pie {
     font-size: 20px;
     font-style: italic;
